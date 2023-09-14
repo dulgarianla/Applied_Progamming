@@ -1,16 +1,16 @@
 # Overview
+Welcome to the overview of today's code and what the purpose of it. 
 
-{Provide a description of your software}
+For this code I created a file that will print `"Hello World"` in the terminal, while it ran. 
 
-{Describe your purpose for creating this software.}
+How this was done was I created a **python file** and then named it *hello_world.py* which then I used the function `print()`. After that I then type into the parenthesis `()` and quotations marks and in the quotations, I add **"Hello World"**. Then I saved and push ran. The terminal popped up and repeated/printed out the phrase **"Hello World"**
 
 [Demo Video: "Hello World" ](https://youtu.be/EWGz1rgFPsw) 
 
 # Development Environment
 
 ## Tools Used
-{Describe the tools that you used to develop the software}
-
+Here are the tools that was use for my software and what each of them are and how they work.  
 ### GitHub
 >GitHub is a place where programmers store, share, and collaborate on their code, making it easier to work on big projects together and keep track of all the changes. It's like a big, organized playground for building digital stuff.
 
